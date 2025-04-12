@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Utkarsh Sharma
+title: Utkarsh's Blog
 email: utkarsharma@apache.org
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -30,9 +30,13 @@ twitter_username: utkarsharma2
 github_username:  utkarsharma2
 
 # Build settings
-theme: minima
+theme: jekyll-theme-dinky
 plugins:
   - jekyll-feed
+dinky:
+  show_excerpts: True
+
+excerpt_separator: "<!--more-->"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -21,12 +21,10 @@
 title: Utkarsh's Blog
 email: utkarsharma@apache.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to my little corner on the internet. This is where I share what I’m learning,
+  building, and exploring in software engineering. It’s a work in progress, thanks for stopping by!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: utkarsharma2
 github_username:  utkarsharma2
 
 # Build settings
@@ -35,9 +33,9 @@ plugins:
   - jekyll-feed
 dinky:
   show_excerpts: True
-
 excerpt_separator: "<!--more-->"
-
+github:
+  is_user_page: True
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

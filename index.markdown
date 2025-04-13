@@ -3,6 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: index
-title: "Recent Posts"
+title: "Utkarsh's Blog"
 
 ---

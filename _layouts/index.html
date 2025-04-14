@@ -6,7 +6,7 @@ layout: default
     {%- if page.list_title -%}
       <h2 class="post-list-heading">{{ page.list_title }}</h2>
     {%- endif -%}
-    <ul class="post-list">
+    <ul class="post-list posts">
       {%- assign date_format = site.dinky.date_format | default: "%b %-d, %Y" -%}
       {%- for post in site.posts -%}
       <li>

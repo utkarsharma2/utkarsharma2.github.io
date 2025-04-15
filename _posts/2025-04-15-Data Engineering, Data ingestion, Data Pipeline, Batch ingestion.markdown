@@ -3,7 +3,7 @@ layout: default
 title:  "Batch Ingestion Considerations: Designing for Scale and Simplicity"
 date:   2025-04-15 17:00:00 +0530
 categories: Data Engineering, Data ingestion, Data Pipeline, Batch ingestion
-excerpt: In a world obsessed with real-time streams and microsecond latencies, it's easy to overlook the enduring value of **batch processing**. But the truth is — **batch ingestion still powers the backbone of modern data infrastructure**, especially when it comes to data lakes, warehousing, and enterprise analytics.
+excerpt: In a world obsessed with real-time streams and microsecond latencies, it's easy to overlook the enduring value of batch processing. But the truth is — batch ingestion still powers the backbone of modern data infrastructure, especially when it comes to data lakes, warehousing, and enterprise analytics.
 ---
 
 # 📦 Batch Ingestion Considerations: Designing for Scale and Simplicity

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "The Anatomy of Data Ingestion: A Guide for Engineers Who Care"
 date:   2025-04-11 23:01:03 +0530
 categories: Data Engineering, Data ingestion, Data Pipeline

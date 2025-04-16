@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "How to Not Break Your Data Pipeline: A Guide to Stream Ingestion Done Right"
 date:   2025-04-15 18:20:00 +0530
 categories: Data Engineering, Data ingestion, Data Pipeline, Stream ingestion

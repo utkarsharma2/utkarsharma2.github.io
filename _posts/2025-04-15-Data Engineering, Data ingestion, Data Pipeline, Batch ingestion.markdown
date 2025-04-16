@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Batch Ingestion Considerations: Designing for Scale and Simplicity"
 date:   2025-04-15 17:00:00 +0530
 categories: Data Engineering, Data ingestion, Data Pipeline, Batch ingestion
